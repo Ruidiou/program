@@ -1,0 +1,23 @@
+.carousel{
+	position: relative;
+}
+.carousel .train{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.carousel .train .mar{
+	width: 1180px;
+	margin: 0 auto;
+}
+.carousel-inner .item img{
+	width: 100%;
+}
+
+
+
+
+
+
+
